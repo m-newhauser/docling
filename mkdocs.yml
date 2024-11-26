@@ -52,8 +52,8 @@ theme:
     - search.suggest
     - toc.follow
 nav:
-  - Get started:
-    - Home: index.md
+  - Home:
+    - "Docling 🦆": index.md
     - Installation: installation.md
     - Usage: usage.md
     - CLI: cli.md
@@ -85,8 +85,10 @@ nav:
     #   - CLI: examples/cli.md
   - Integrations:
     - Integrations: integrations/index.md
+    - "Bee Agent Framework 🐝": integrations/bee.md
     - "Data Prep Kit": integrations/data_prep_kit.md
     - "DocETL": integrations/docetl.md
+    - "InstructLab 🐶": integrations/instructlab.md
     - "Kotaemon": integrations/kotaemon.md
     - "LlamaIndex 🦙": integrations/llamaindex.md
     - "spaCy": integrations/spacy.md

@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Docling
+# Docling 🦆
 
 <p align="center">
   <a href="https://trendshift.io/repositories/12132" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12132" alt="DS4SD%2Fdocling | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -65,8 +65,20 @@ result = converter.convert(source)
 print(result.document.export_to_markdown())  # output: "## Docling Technical Report[...]"
 ```
 
-Check out [Getting started](https://ds4sd.github.io/docling/).
-You will find lots of tuning options to leverage all the advanced capabilities.
+More [advanced usage options](https://ds4sd.github.io/docling/usage/) are available in
+the docs.
+
+## Documentation
+
+You can find the full Docling documentation [here](https://ds4sd.github.io/docling/).
+
+## Examples
+
+Check out various examples demonstrating different use cases https://ds4sd.github.io/docling/examples/
+
+## Integrations
+
+https://ds4sd.github.io/docling/integrations/
 
 ## Get help and support
 
